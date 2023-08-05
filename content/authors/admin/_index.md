@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Antoine Zerbini 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Antoine
+last_name: Zerbini
 
 # Status emoji
 status:
@@ -33,8 +33,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Political Science 
+      institution: London School of Economics and Political Science
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
